@@ -1,0 +1,29 @@
+color:
+  brandColors:
+    - '#010101'
+    - '#787878'
+    - '#DFCDBF'
+    - '#864F3B'
+    - '#E2A356'
+  brandStrength: 0.12717522331513464
+  lightness: 0.08393965964205563
+  saturation: 0.44793589669279754
+  rhythmicContrast: 0.05230032210238278
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Eternity RAN Online EP9
+layout_spectrum: 0.4120413986966014
+typography_spectrum: 0.972218785667792
+content: []
+title: Eternity RAN Online EP9
+description: Ran Online Server
+github: true
+author:
+  name: EternityRan
+  email: apeboy@yahoo.com
+  url: 'http://eternityranepx.com/'
